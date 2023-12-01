@@ -14,7 +14,7 @@ export default function Footer() {
       </a>
       | Code available on{" "}
       <a
-        href="https://github.com/StellaLunaSousa/weather-search"
+        href="https://github.com/StellaLunaSousa/weather-app-react"
         target="_blank"
         rel="noreferrer nofollow"
       >
