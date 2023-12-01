@@ -1,0 +1,26 @@
+#other-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+#other-info div {
+    text-align: center;
+    width: 100px;
+}
+
+.other-info-icon {
+    width: 35px;
+    height: 35px;
+}
+
+.other-info-title {
+    font-size: 0.75rem;
+}
+
+.other-info-value {
+    font-size: 1.1rem;
+}

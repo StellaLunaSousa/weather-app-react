@@ -1,0 +1,28 @@
+#forecast {
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    margin-bottom: 20px;
+    text-align: center;
+    gap: 10px;
+}
+
+.forecast-icon {
+    vertical-align: middle;
+    width: 48px;
+}
+
+.forecast-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.forecast-date {
+    opacity: 0.6;
+}
+
+.forecast-temperature-min {
+    margin-left: 0.25rem;
+    opacity: 0.6;
+}
